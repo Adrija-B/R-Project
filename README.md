@@ -1,7 +1,7 @@
 # MSBX 5420 Assignment 1
 # HDFS Commands and Python MapReduce
-# Adrija Barvadheesh
-<p align="center">S</p>
+# <p align="center">Adrija Barvadheesh </p>
+
 
 ## Using this repo
 ### With `docker`
