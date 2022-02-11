@@ -1,10 +1,10 @@
-# MSBX 5420 Assignment 1
-# HDFS Commands and Python MapReduce
-# <p align="center">Adrija Barvadheesh </p>
+# <p align="center">MSBX 5420 Assignment 1</p>
+# <p align="center">HDFS Commands and Python MapReduce</p>
+## <p align="center">Adrija Barvadheesh </p>
 
 
 ## Using this repo
-### With `docker`
+### <h1 style="color:blue;">This is a heading</h1>
 Build:
 
 ```bash
