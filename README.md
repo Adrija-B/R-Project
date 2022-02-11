@@ -1,10 +1,10 @@
-# <p align="center">MSBX 5420 Assignment 1</p>
-# <p align="center">HDFS Commands and Python MapReduce</p>
-## <p align="center">Adrija Barvadheesh </p>
+# <h1 align="center">MSBX 5420 Assignment 1</p>
+# <h1 align="center">HDFS Commands and Python MapReduce</p>
+## <h2 align="center">Adrija Barvadheesh </p>
 
 
 ## Using this repo
-### <h1 style="color:blue;">This is a heading</h1>
+### <p style="color:blue;">Task 1</h1>
 Build:
 
 ```bash
